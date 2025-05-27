@@ -60,6 +60,8 @@ Three test rules were designed based on honeypot insights:
 ### 3. 🔗 Associate WAF with ALB
 The WAF was linked to the Application Load Balancer to begin filtering and responding to malicious traffic.
 
+![Mock](https://www.phishy.cloud/assets/img/proj/mock11.jpg)
+
 ### 4. 🔄 Connect ALB to EC2 Instance
 Security group rules were updated so the ALB could forward filtered traffic to the EC2-based honeypot instance.
 
@@ -68,6 +70,8 @@ After WAF deployment:
 - **Pre-WAF**: ~5,000 events/hour
 - **Post-WAF**: ~50 events/hour  
 → **📉 99% Reduction** in attack activity
+
+![Mock](https://www.phishy.cloud/assets/img/proj/mock10.jpg)
 
 ---
 
