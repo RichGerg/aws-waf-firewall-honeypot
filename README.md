@@ -8,8 +8,6 @@ This project is a follow-up to my [AWS Honeypot Deployment & Attack Analysis (Pa
 
 Analyze honeypot data collected over 10 days and design a WAF with custom rules to block known attackers, high-frequency scanning tools, and IPs from high-risk countries — improving system security and reducing attack volume in real time.
 
-![Mock](https://www.phishy.cloud/assets/img/proj/mock9.jpg)
-
 ---
 
 ## 🔍 T-Pot Honeypot Insights (10-Day Summary)
@@ -30,6 +28,8 @@ Analyze honeypot data collected over 10 days and design a WAF with custom rules 
   - 5900 – VNC (Remote Desktop)
   - 547 – DHCPv6
   - 80 – HTTP/Web Server
+
+![Mock](https://www.phishy.cloud/assets/img/proj/mock9.jpg)
 
 ---
 
