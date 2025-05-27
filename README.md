@@ -91,7 +91,7 @@ Due to resource costs (18 Docker containers on a `t3.xlarge` instance with 128 G
 
 ## 🔗 Related Projects
 
-- 📡 [AWS Honeypot Deployment & Attack Analysis](https://github.com/RichGerg/aws-honeypot-attack-analysis)
+- 📡 [AWS Honeypot Deployment & Attack Analysis (Part 1)](https://github.com/RichGerg/aws-honeypot-attack-analysis)
 
 ---
 
